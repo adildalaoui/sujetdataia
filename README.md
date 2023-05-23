@@ -21,7 +21,7 @@ Run the following commands to start this application:
 
 ```bash
 # Run the `cd` command to change the current directory to the path of project.
-MacBook-Pro-de-hamid:Sujet3 adil$ cd ~/adil/sujet3
+MacBook-Pro-de-adil:Sujet3 adil$ cd ~/adil/sujet3
 
 # Run this to set everything up
 npm install
