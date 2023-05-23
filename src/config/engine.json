@@ -1,0 +1,18 @@
+{
+  "engineName": "poc-adil-search",
+  "endpointBase": "https://adil-a734a6.ent.us-central1.gcp.cloud.es.io",
+  "searchKey": "search-kv2jcpu96ausm9tkriv76npu",
+  "searchFields": ["intitule", "description", "typecontratlibelle"],
+  "resultFields": [
+    "intitule",
+    "description",
+    "typecontratlibelle",
+	 "experiencelibelle"
+  ],
+  "querySuggestFields": ["intitule"],
+  "titleField": "intitule",
+  "urlField": "",
+  "thumbnailField": "",
+  "sortFields": ["intitule", "typecontratlibelle"],
+  "facets": ["typecontratlibelle", "experiencelibelle"]
+}
